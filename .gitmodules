@@ -1,0 +1,3 @@
+[submodule "cogctl-v07-specs"]
+	path = cogctl-v07-specs
+	url = https://github.com/gintatkinson/cogctl-v07.git
